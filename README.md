@@ -29,7 +29,7 @@ npm i -g random-lyrics
 ```
 $ random-lyrics
 $ {"artist":"Elvis Presley","song":"Suspicious Minds","lyrics":"Were caugh ...
-``
+```
 
 License
 ----
