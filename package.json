@@ -1,0 +1,33 @@
+{
+  "name": "random-lyrics",
+  "version": "1.0.0",
+  "description": "random lyrics tool",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/random-lyrics.git"
+  },
+  "bin": {
+    "random-lyrics": "bin/index.js"
+  },
+  "keywords": [
+    "random",
+    "lyrics"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/random-lyrics/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/random-lyrics#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "ava": "^1.2.1"
+  }
+}
